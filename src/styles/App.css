@@ -1,0 +1,12 @@
+.App {
+ 
+}
+.main {
+  background-color: #0A1929;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
